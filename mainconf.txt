@@ -1,0 +1,3 @@
+blocksize :   14
+thread'snum                     :  2
+algconfig           : configalg.txt

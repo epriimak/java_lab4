@@ -1,0 +1,3 @@
+mode    :        code
+num     :                  1
+table   :                table.txt
